@@ -3,6 +3,7 @@
  * Plugin Name: Hello Shortcode
  * Description: Outputs a customizable message via shortcode [hello_message].
  * Version: 1.0.0
+ * 
  */
 
 function hello_message_shortcode($atts) {
